@@ -27,7 +27,7 @@ twitter_username: ember_crooks
 github_username:  ecrooks
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-dinky
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-feed
