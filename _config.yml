@@ -21,19 +21,14 @@
 title: dbms-transcoder
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Sharing information on concept and terminology differences between dbms plarforms
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ember_crooks
 github_username:  ecrooks
 
 # Build settings
-<<<<<<< HEAD
-theme: cayman
-=======
 theme: jekyll-theme-cayman
 remote_theme: pages-themes/cayman@v0.2.0
->>>>>>> 41106bd2f0fc08bb60dd5d1dfd136b7e7b444a0c
 plugins:
   - jekyll-feed
 
