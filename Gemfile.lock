@@ -276,10 +276,9 @@ PLATFORMS
   x86_64-darwin-19
 
 DEPENDENCIES
-  github-pages (~> 226)
+  github-pages
   http_parser.rb (~> 0.6.0)
   jekyll-feed (~> 0.12)
-  jekyll-theme-primer
   minima (~> 2.5)
   tzinfo (~> 1.2)
   tzinfo-data
