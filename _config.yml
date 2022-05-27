@@ -23,7 +23,8 @@ email: ember.crooks@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The Rosetta Stone for DBMS Concepts and Terminology
 #baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://dbms-transcoder.github.io/dbms-transcoder/" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "https://dbms-transcoder.github.io/dbms-transcoder/" # the base hostname & protocol for your site, e.g. http://example.com
+repository: dbms-transcoder/dbms-transcoder
 twitter_username: ember_crooks
 github_username:  ecrooks
 
