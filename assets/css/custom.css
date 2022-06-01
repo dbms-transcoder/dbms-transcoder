@@ -5,6 +5,7 @@
     padding: 0;
     list-style: none;
     position: relative;
+    background-color: #F3FAFA;
 }
 
 .tab > * {
@@ -38,6 +39,7 @@
 
 .tab-content{
     padding: 0;
+    background-color: #F3FAFA;
 }
 
 .tab-content li {
@@ -45,4 +47,40 @@
 }
 .tab-content li.active {
     display: initial;
+}
+tbody th {
+  background-color: #156a86;
+  color: white;
+}
+#category-header{
+  background-color: #15846c;
+  color: white;
+}
+p.post-meta {
+  color: #F3FAFA;
+}
+p.post-meta a {
+  color: #F3FAFA;
+}
+header.page-header-nav {
+  background-color: #15846c;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 5px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0 25px 0 black;
+}
+header.page-header-nav * {
+  color: #F3FAFA; 
+  display: inline;
+}
+header.page-header-nav li {
+margin: 20px;
+}
+header.page-header-nav li a {
+color: white;
+text-decoration: none;
 }
